@@ -1,0 +1,39 @@
+# =========================================
+# GENERAL / OS FILES
+# =========================================
+.DS_Store
+Thumbs.db
+*.log
+
+# =========================================
+# VS CODE
+# =========================================
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# =========================================
+# BACKEND (Spring Boot / Gradle / Java)
+# =========================================
+backend/.gradle/
+backend/build/
+backend/bin/
+backend/.settings/
+backend/.project
+backend/.classpath
+backend/*.iml
+backend/.sts_cache/
+backend/out/
+
+# =========================================
+# FRONTEND (Angular / Node)
+# =========================================
+frontend/node_modules/
+frontend/dist/
+frontend/.angular/
+frontend/.npm
+frontend/npm-debug.log*
+frontend/yarn-error.log*
+frontend/pnpm-debug.log*
