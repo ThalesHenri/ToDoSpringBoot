@@ -27,7 +27,7 @@ Projeto desenvolvido como speedrun para demonstração de arquitetura fullstack 
 meu-projeto-todo/
 ├── backend/               # API REST em Spring Boot
 └── frontend/              # Aplicação SPA em Angular
-
+```
 
 ⚙️ Como Executar o Projeto1. Clonar o RepositórioBashgit clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
 cd seu-repositorio
